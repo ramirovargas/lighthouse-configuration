@@ -1,0 +1,25 @@
+{
+  "name": "ratp-lighthouse-recipe",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "lighthouse": "^5.6.0"
+  },
+  "version": "1.0.0",
+  "main": "card-audit.js",
+  "dependencies": {},
+  "author": "ramiro",
+  "license": "ISC",
+  "description": "test",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirovargas/lighthouse-configuration.git"
+  },
+  "keywords": [
+    "lighthouse"
+  ],
+  "bugs": {
+    "url": "https://github.com/ramirovargas/lighthouse-configuration/issues"
+  },
+  "homepage": "https://github.com/ramirovargas/lighthouse-configuration#readme"
+}
